@@ -1,19 +1,19 @@
-# API Design
+# Дизайн API
 
-Currently using the built-in Kaggle Environment API.
-The core interface:
+В настоящее время используется встроенный API окружения Kaggle.
+Основной интерфейс:
 ```python
 def agent(obs):
-    # Process observation
-    # Return actions
+    # Обработка наблюдений (observation)
+    # Возврат действий (actions)
     return []
 ```
 
-Observation contains:
+Наблюдение (obs) содержит:
 - `planets`: `[[id, owner, x, y, radius, ships, production], ...]`
 - `fleets`: `[[id, owner, x, y, angle, from_planet_id, ships], ...]`
-- `player`: `int` (your id)
-- `comets` and `comet_planet_ids`
+- `player`: `int` (ваш id)
+- `comets` и `comet_planet_ids`
 - `angular_velocity`
 
-Back to [[index]]
+Назад к [[index]]

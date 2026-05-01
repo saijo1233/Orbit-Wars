@@ -1,10 +1,10 @@
-# Tech Stack
+# Стек Технологий
 
-- **Language**: Python 3.10+
-- **Environment**: Kaggle Environments (`kaggle-environments`)
-- **Libraries**:
-    - `numpy` for fast mathematical operations and geometry.
-    - `math` for basic geometry.
-    - `scipy` (optional) for spatial calculations if needed.
+- **Язык**: Python 3.10+
+- **Окружение**: Kaggle Environments (`kaggle-environments`)
+- **Библиотеки**:
+    - `numpy` для быстрых математических операций и геометрии.
+    - `math` для базовой геометрии.
+    - `scipy` (опционально) для пространственных расчетов, если потребуется.
 
-Back to [[index]]
+Назад к [[index]]

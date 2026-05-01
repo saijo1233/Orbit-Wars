@@ -1,12 +1,12 @@
-# Tasks
+# Задачи
 
-- [x] Extract requirements from `Data/Raw/task.md`
-- [x] Initialize Obsidian structure and `.gitignore`
-- [x] Setup GitHub repository
-- [ ] Design the bot's architecture (state representation, evaluation function, search/heuristic logic)
-- [ ] Setup local environment with Kaggle Orbit Wars
-- [ ] Implement initial baseline bot (e.g., greedy strategy)
-- [ ] Add advanced routing considering comets and rotating planets
-- [ ] Submit to Kaggle and analyze replays
+- [x] Извлечь требования из `Data/Raw/task.md`
+- [x] Инициализировать структуру Obsidian и `.gitignore`
+- [x] Настроить репозиторий GitHub
+- [ ] Спроектировать архитектуру бота (представление состояния, функция оценки, эвристика)
+- [ ] Настроить локальное окружение Kaggle Orbit Wars
+- [ ] Реализовать базового бота (например, жадная стратегия)
+- [ ] Добавить продвинутую маршрутизацию с учетом комет и вращающихся планет
+- [ ] Отправить решение на Kaggle и проанализировать реплеи
 
-Back to [[index]]
+Назад к [[index]]

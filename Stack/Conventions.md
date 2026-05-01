@@ -1,8 +1,8 @@
-# Conventions
+# Соглашения (Conventions)
 
-- Follow PEP8.
-- Use explicit type hinting where possible.
-- Focus on zero-allocation strategies inside the `agent` function to remain within the 1-second timeout.
-- Commit messages should be descriptive.
+- Следовать стандарту PEP8.
+- По возможности использовать явную аннотацию типов (Type hinting).
+- Использовать стратегии с нулевым выделением памяти (zero-allocation) внутри функции `agent`, чтобы укладываться в ограничение по времени в 1 секунду.
+- Сообщения коммитов должны быть информативными.
 
-Back to [[index]]
+Назад к [[index]]

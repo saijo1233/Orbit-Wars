@@ -1,6 +1,6 @@
-# Project Map
+# Карта Проекта
 
-Currently a monolithic Kaggle Bot.
-Main entry point will be `agent.py` in the root.
+В настоящее время это монолитный бот для Kaggle.
+Главная точка входа — `agent.py` в корневой директории.
 
-Back to [[index]]
+Назад к [[index]]

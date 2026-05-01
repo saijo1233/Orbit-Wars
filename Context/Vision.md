@@ -1,5 +1,5 @@
-# Vision
+# Видение
 
-The vision is to create a highly competitive AI bot for the Kaggle Orbit Wars competition. The agent will participate in 1v1 and 4-player FFA games, using advanced heuristic or learning-based algorithms to command fleets, conquer planets, and achieve orbital supremacy.
+Видение состоит в создании высококонкурентного ИИ-бота для соревнования Kaggle Orbit Wars. Агент будет участвовать в играх 1 на 1 и FFA на 4 игроков (каждый сам за себя), используя продвинутые эвристические алгоритмы или алгоритмы обучения для управления флотами, завоевания планет и достижения орбитального превосходства.
 
-Back to [[index]]
+Назад к [[index]]

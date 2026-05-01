@@ -1,12 +1,12 @@
-# Requirements
+# Требования
 
-Based on the parsed Orbit Wars rules (see [[Data/Parsed/Orbit_Wars/index|Parsed Task Requirements]]):
+Основано на разобранных правилах Orbit Wars (см. [[Data/Parsed/Orbit_Wars/index|Разобранные требования к задаче]]):
 
-- **Environment**: Kaggle environment `kaggle_environments.envs.orbit_wars`
-- **Output**: The agent must return a list of fleets to launch: `[[from_planet_id, direction_angle, num_ships], ...]`
-- **Constraints**:
-    - Maximum 500 turns.
-    - `actTimeout`: 1 second per turn.
-- **Goal**: Maximize total ships on owned planets and owned fleets at the end of the game or upon elimination of all enemies.
+- **Среда**: Окружение Kaggle `kaggle_environments.envs.orbit_wars`
+- **Вывод**: Агент должен возвращать список запускаемых флотов: `[[from_planet_id, direction_angle, num_ships], ...]`
+- **Ограничения**:
+    - Максимум 500 ходов.
+    - `actTimeout`: 1 секунда на ход.
+- **Цель**: Максимизировать общее количество кораблей на своих планетах и в своих флотах к концу игры или после устранения всех врагов.
 
-Back to [[index]]
+Назад к [[index]]

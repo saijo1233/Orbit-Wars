@@ -1,5 +1,5 @@
-# Module Index
+# Индекс Модулей
 
-- `agent.py`: Core Kaggle agent logic (To be created)
+- `agent.py`: Основная логика агента для Kaggle (Реализован базовый жадный алгоритм)
 
-Back to [[index]]
+Назад к [[index]]

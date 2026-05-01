@@ -1,24 +1,24 @@
-# Orbit Wars Bot
+# Бот Orbit Wars
 
-Welcome to the Orbit Wars Bot project documentation. This knowledge base follows the strict architecture defined in the AI Software Engineer guidelines.
+Добро пожаловать в документацию проекта бота Orbit Wars. Эта база знаний следует строгой архитектуре, определенной в правилах AI Software Engineer.
 
-## Modules
+## Модули
 
-- [[Context/Vision|Vision]]
-- [[Context/Requirements|Requirements]]
-- [[Context/Tasks|Tasks]]
+- [[Context/Vision|Видение]]
+- [[Context/Requirements|Требования]]
+- [[Context/Tasks|Задачи]]
 
-## Tech Stack & Architecture
+## Стек технологий и архитектура
 
-- [[Stack/Tech_Stack|Tech Stack]]
-- [[Stack/API_Design|API Design]]
-- [[Stack/Conventions|Conventions]]
+- [[Stack/Tech_Stack|Стек технологий]]
+- [[Stack/API_Design|Дизайн API]]
+- [[Stack/Conventions|Соглашения (Conventions)]]
 
-## Structure
+## Структура
 
-- [[Structure/Project_Map|Project Map]]
-- [[Structure/Module_Index|Module Index]]
+- [[Structure/Project_Map|Карта проекта]]
+- [[Structure/Module_Index|Индекс модулей]]
 
-## Data
+## Данные
 
-- [[Data/Parsed/Orbit_Wars/index|Parsed Task Requirements]]
+- [[Data/Parsed/Orbit_Wars/index|Разобранные требования к задаче]]
